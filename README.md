@@ -1,5 +1,5 @@
 # QG-sphSymm-ancillary
-Ancillary files for arXiv publication 2104.tba
+Ancillary files for arXiv publication 2104.04010
 
 depedencies:
 Mathematica 12
